@@ -603,15 +603,7 @@ docker compose up -d --build
 docker compose logs -f
 ```
 
-## 👥 Team
 
-- **Your Name** - @yourhandle
-- **Discord:** yourhandle
-- **Email:** your@email.com
-
-## 📄 License
-
-MIT License - feel free to use and modify!
 
 ## 🙏 Acknowledgments
 
