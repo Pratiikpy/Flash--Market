@@ -623,10 +623,10 @@ MIT License - feel free to use and modify!
 ## 🔗 Links
 
 - **Live Demo:** https://flash-markets.demo (coming soon)
-- **GitHub:** https://github.com/YOUR_USERNAME/flash-markets
-- **Demo Video:** https://youtube.com/... (coming soon)
+- **GitHub:** https://github.com/Pratiikpy/Flash--Market
+- **Demo Video:** https://www.youtube.com/watch?v=R34zeFm4ArM
 - **Discord:** https://discord.gg/linera
-- **Linera Docs:** https://docs.linera.io
+- **Linera Docs:** https://linera.dev/
 
 ---
 
