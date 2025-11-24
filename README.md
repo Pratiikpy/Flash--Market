@@ -4,9 +4,13 @@
 
 > **🔴 LIVE ON TESTNET CONWAY**
 
-> * **Chain ID:** `ff869722e5434effbdcb533eae9979085f0ee8283aa711a9c250183d8a6e07`
+> * **Chain ID:** `ff869722e5434effbdcb533eae9979085f0ee8283aa711a9c2501838683ff54f`
 
 > * **Market App:** `1cbf188bf36951902f7d80b6410a27e558f981fe6f98c1e24b01426491bde0da`
+
+> * **Oracle App:** `7303f1197240f8b869fd92c31d06fc29de982c85acdd703ba0679d89390e59a4`
+
+> * **Token App:** `fce5a571299bf5868ae7fedbc8ed74df460b47788594e87e966bde6dde211246`
 
 Real-time prediction markets that resolve in minutes, not days - showcasing Linera's instant finality and real-time capabilities.
 
