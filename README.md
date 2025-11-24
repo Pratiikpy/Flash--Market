@@ -2,6 +2,12 @@
 
 **Ultra-Fast Micro Prediction Markets on Linera Microchains**
 
+> **🔴 LIVE ON TESTNET CONWAY**
+
+> * **Chain ID:** `ff869722e5434effbdcb533eae9979085f0ee8283aa711a9c250183d8a6e07`
+
+> * **Market App:** `1cbf188bf36951902f7d80b6410a27e558f981fe6f98c1e24b01426491bde0da`
+
 Real-time prediction markets that resolve in minutes, not days - showcasing Linera's instant finality and real-time capabilities.
 
 <img src="./docs/flash-markets-architecture.png" width="700" alt="Flash Markets Architecture">
